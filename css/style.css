@@ -1,0 +1,118 @@
+.signika {
+  font-family: "Signika", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+  color: white;
+  /* background-color: #182747; */
+  background-color: #0F1035!important;
+  font-family: Signika, sans-serif;
+
+}
+
+.logo {
+  max-width: 50px;
+  margin: auto 15px auto 22px;
+}
+
+.navbar {
+  /*background-color: #21263c!important;*/
+  background-color: #0F1035!important;
+}
+
+.navbar-brand {
+  font-size: 22px;
+}
+
+.navbar-item {
+  margin: 0 15px;
+  font-size: 16px;
+}
+
+.img {
+  height: 370px;
+  object-fit: contain;
+  min-width: 300px;
+  min-height: 300px;
+}
+
+.header-txt {
+  max-width: 440px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.middle-text {
+  font-size: 50px;
+  max-width: 750px;
+}
+
+.small-txt {
+  font-size: 15px;
+
+}
+
+.separator {
+  height: 60px;
+}
+
+.footer {
+  height: 100px;
+  width: 100%;
+}
+
+.footer a{
+  color: white;
+}
+
+.footer .social-button {
+  width: 25px;
+  margin: 10px;
+}
+
+.footer .social-button:hover{
+  opacity: 65%;
+}
+
+.footer .social-button:active{
+  opacity: 100%:
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
+
+}
+
+
+/* SERVICES PAGE SPECIFIC CSS */
+.card {
+  color: black;
+  min-width: 300px;
+  min-height: 290px;
+
+}
+
+.card-button {
+  bottom: 0;
+}
+
+/* CONTACT US PAGE SPECIFIC CSS */
+
+.form-container {
+  background-color: #6c757d;
+  min-width: 400px;
+  width: 50%;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 20px auto;
+  margin-bottom: 50px;
+}
+
+
+.btn-submit {
+  max-width: 350px;
+  min-width: 250px;
+}

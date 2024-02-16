@@ -140,6 +140,10 @@ body {
   .footer {
     align-self: flex-end;
   }
+
+  .btn-submit{
+    width: 200px;
+  }
 }
 
 

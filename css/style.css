@@ -87,7 +87,7 @@ body {
 }
 
 
-/* SERVICES PAGE SPECIFIC CSS */
+/* SERVICES AND NEWS PAGE SPECIFIC CSS */
 .card {
   color: black;
   min-width: 300px;
@@ -97,6 +97,10 @@ body {
 
 .card-button {
   bottom: 0;
+}
+
+.card-img-top{
+  height: 200px;
 }
 
 /* CONTACT US PAGE SPECIFIC CSS */
